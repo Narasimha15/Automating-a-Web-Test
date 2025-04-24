@@ -1,4 +1,3 @@
-# Automating-a-Web-Test
 # Intervue.io Login Automation Test
 
 ## 🔧 Requirements
