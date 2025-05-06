@@ -1,4 +1,4 @@
-# Intervue.io Login Automation Test
+# Login Automation 
 
 ## 🔧 Requirements
 
